@@ -6,3 +6,4 @@
 6. DATABASE=enterYourMongoDBStringWithUsernameAndPassword
 7. JWT_SECRET=LKAJSDFHJKS"+!%SDFG345+!%/GSDFGSDFG345
 5. run the command "npm install" in your terminal from the root
+6. `npm run start`
